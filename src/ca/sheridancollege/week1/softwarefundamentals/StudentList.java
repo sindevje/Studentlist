@@ -11,6 +11,7 @@ public class StudentList {
     public static void main(String[] args)
     {
         //coment to be commit
+        //comment to commit to netbeans
        Student [] studentList = new Student[1];//change size before running
        Student s1 = new Student();
        s1.setName("Liz Dancy");
